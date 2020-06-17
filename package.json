@@ -2,6 +2,9 @@
 	"name": "admin",
 	"version": "0.1.0",
 	"private": true,
+	"engines": {
+		"yarn": "1.22.4"
+	},
 	"dependencies": {
 		"@webiny/app-template-admin-full": "^4.1.0",
 		"react": "^16.13.1",
