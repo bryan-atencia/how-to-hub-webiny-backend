@@ -8,7 +8,9 @@
 	"dependencies": {
 		"@webiny/app-template-admin-full": "^4.1.0",
 		"react": "^16.13.1",
-		"react-dom": "^16.13.1"
+		"react-dom": "^16.13.1",
+		"slate": "^0.58.3",
+		"slate-history": "^0.58.3"
 	},
 	"devDependencies": {
 		"env-cmd": "^10.1.0"
